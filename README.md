@@ -114,5 +114,5 @@ C:.
 - 🌍 **Internacionalização (i18n)**
 
 ---
-Desenvolvido com 💙 por [Seu Nome].
+Desenvolvido com 💙 por Gabriel Leandro Rosa.
 
