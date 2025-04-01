@@ -1,5 +1,6 @@
+# Em Construção
+#
 # Gerenciamento de Posts - Frontend Angular
-
 ## Descrição
 Este é o frontend de um sistema de gerenciamento de posts, desenvolvido com **Angular**, **Tailwind CSS** e **Auth0** para autenticação via **JWT**. O projeto visa fornecer uma interface responsiva e segura para criar, editar e visualizar posts.
 
